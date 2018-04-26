@@ -6,4 +6,6 @@
 ### 谷粉搜搜
 [谷粉查文献](https://gfsoso.99lb.net/)
 ### 谷歌镜像
-[谷歌镜像查文献](http://ac.scmor.com/)
+[谷歌镜像查文献](http://ac.scmor.com/)  
+### 查专利  
+[中国专利全文打包下载](http://www.drugfuture.com/cnpat/cn_patent.asp)
