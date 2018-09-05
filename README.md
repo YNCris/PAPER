@@ -8,4 +8,6 @@
 ### 谷歌镜像
 [谷歌镜像查文献](http://ac.scmor.com/)  
 ### 查专利  
-[中国专利全文打包下载](http://www.drugfuture.com/cnpat/cn_patent.asp)
+[中国专利全文打包下载](http://www.drugfuture.com/cnpat/cn_patent.asp)  
+### 百度文库下载  
+[嗨文库](http://www.hiwenku.com/)  
