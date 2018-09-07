@@ -11,3 +11,5 @@
 [中国专利全文打包下载](http://www.drugfuture.com/cnpat/cn_patent.asp)  
 ### 百度文库下载  
 [嗨文库](http://www.hiwenku.com/)  
+### 学术壁报--poster  
+[lucidpress](https://www.lucidpress.com/)  
