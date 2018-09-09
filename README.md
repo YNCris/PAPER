@@ -1,4 +1,6 @@
 # PAPER
+### 查文献神器  
+[geenmedical](http://www.geenmedical.com/)  
 ### glgoo  
 [谷歌学术不用翻墙](https://xueshu.glgoo.net/)   
 ### sci-hub  
