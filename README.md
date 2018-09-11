@@ -1,6 +1,7 @@
 # PAPER
 ### 查文献神器  
 [geenmedical](http://www.geenmedical.com/)  
+[web of science](http://apps.webofknowledge.com/UA_GeneralSearch_input.do?product=UA&search_mode=GeneralSearch&SID=5F1jFD1EXGlwFhXacAN&preferencesSaved=)  
 ### glgoo  
 [谷歌学术不用翻墙](https://xueshu.glgoo.net/)   
 ### sci-hub  
