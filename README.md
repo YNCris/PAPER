@@ -18,3 +18,5 @@
 [嗨文库](http://www.hiwenku.com/)  
 ### 学术壁报--poster  
 [lucidpress](https://www.lucidpress.com/)  
+### 期刊参考  
+[医学图想处理类期刊](https://blog.csdn.net/qimo601/article/details/82343744)  
