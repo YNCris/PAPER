@@ -1,5 +1,6 @@
 # PAPER
 ### 查文献神器  
+[谷粉学术](https://gfsoso.99lb.net/)  
 [geenmedical](http://www.geenmedical.com/)  
 [web of science](http://apps.webofknowledge.com/UA_GeneralSearch_input.do?product=UA&search_mode=GeneralSearch&SID=5F1jFD1EXGlwFhXacAN&preferencesSaved=)  
 ### glgoo  
