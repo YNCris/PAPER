@@ -7,6 +7,7 @@
 [谷歌学术不用翻墙](https://xueshu.glgoo.net/)   
 ### sci-hub  
 [免费下载论文，要开VPN](http://www.sci-hub.tw/)  
+[SCIHUB不用开VPN](http://tool.yovisun.com/scihub/)  
 ### 查文献doi号  
 [crossref,输入一作和文章名即可查询](https://www.crossref.org/guestquery/)  
 ### 谷粉搜搜
