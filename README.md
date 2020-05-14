@@ -23,4 +23,6 @@
 ### 期刊参考  
 [医学图像处理类期刊](https://blog.csdn.net/qimo601/article/details/82343744)  
 [医学图像处理类期刊](http://www.cnblogs.com/burellow/archive/2013/05/26/3100446.html)  
-[图像处理类期刊](https://blog.csdn.net/qq_26898461/article/details/48263051)
+[图像处理类期刊](https://blog.csdn.net/qq_26898461/article/details/48263051)  
+### 科研论文作图  
+[科研论文作图004_图片的大小](https://wenku.baidu.com/view/e3c7a26ab90d6c85ed3ac637.html)  
