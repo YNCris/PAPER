@@ -26,3 +26,5 @@
 [图像处理类期刊](https://blog.csdn.net/qq_26898461/article/details/48263051)  
 ### 科研论文作图  
 [科研论文作图004_图片的大小](https://wenku.baidu.com/view/e3c7a26ab90d6c85ed3ac637.html)  
+### 论文图片素材  
+[https://scidraw.io/](https://scidraw.io/)  
