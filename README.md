@@ -31,3 +31,5 @@
 [https://pixabay.com/zh/(需要登录)](https://pixabay.com/zh/)  
 ### 论文关系可视化  
 [https://www.connectedpapers.com/](https://www.connectedpapers.com/)  
+### 高被引相关  
+[全球前2%顶尖科学家榜单](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4)  
