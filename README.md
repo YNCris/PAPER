@@ -34,4 +34,7 @@
 ### 高被引相关  
 [全球前2%顶尖科学家榜单](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4)  
 ### 神经网络在线绘制  
-[NN-SVG](http://alexlenail.me/NN-SVG/index.html)  
+[NN-SVG](http://alexlenail.me/NN-SVG/index.html) 
+### 数据库  
+[GSA数据库](https://ngdc.cncb.ac.cn/gsa/)  
+[GSA数据库教程](https://ngdc.cncb.ac.cn/gsa/documents)  
