@@ -38,3 +38,5 @@
 ### 数据库  
 [GSA数据库](https://ngdc.cncb.ac.cn/gsa/)  
 [GSA数据库教程](https://ngdc.cncb.ac.cn/gsa/documents)  
+### 文献看不懂怎么办  
+[explainpaper帮你翻译](https://www.explainpaper.com/#)  
