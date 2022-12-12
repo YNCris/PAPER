@@ -40,3 +40,5 @@
 [GSA数据库教程](https://ngdc.cncb.ac.cn/gsa/documents)  
 ### 文献看不懂怎么办  
 [explainpaper帮你翻译](https://www.explainpaper.com/#)  
+### chatGPT免费润色方法  
+[三分钟学会用chatGPT写学术论文--NCC lab 罗文伟](https://www.bilibili.com/video/BV1NM411U7GG/?spm_id_from=333.999.0.0&vd_source=136c6e7dd06aac47821423d96c64db67)  
