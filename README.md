@@ -29,6 +29,7 @@
 ### 论文图片素材  
 [https://scidraw.io/](https://scidraw.io/)  
 [https://pixabay.com/zh/(需要登录)](https://pixabay.com/zh/)  
+[https://smart.servier.com/](https://smart.servier.com/)
 ### 论文关系可视化  
 [https://www.connectedpapers.com/](https://www.connectedpapers.com/)  
 ### 高被引相关  
