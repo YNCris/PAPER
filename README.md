@@ -40,9 +40,9 @@
 [NN-SVG](http://alexlenail.me/NN-SVG/index.html) 
 ### 数据库  
 [GSA数据库](https://ngdc.cncb.ac.cn/gsa/)  
+[GSA数据库教程](https://ngdc.cncb.ac.cn/gsa/documents)  
 ### 一些会议文章  
 [第四届 Human Brain and Artificial Intelligence 会议通知](https://hbai2024.github.io/)  
-[GSA数据库教程](https://ngdc.cncb.ac.cn/gsa/documents)  
 ### 文献看不懂怎么办  
 [explainpaper帮你翻译](https://www.explainpaper.com/#)  
 ### chatGPT免费润色方法  
