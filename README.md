@@ -47,4 +47,6 @@
 [explainpaper帮你翻译](https://www.explainpaper.com/#)  
 ### chatGPT免费润色方法  
 [三分钟学会用chatGPT写学术论文--NCC lab 罗文伟](https://www.bilibili.com/video/BV1NM411U7GG/?spm_id_from=333.999.0.0&vd_source=136c6e7dd06aac47821423d96c64db67)  
-Help me to paraphrase this paragraph more academically
+Help me to paraphrase this paragraph more academically  
+### 实验设计  
+[对照实验种类](https://zhuanlan.zhihu.com/p/353908052)  
