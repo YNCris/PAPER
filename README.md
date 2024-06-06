@@ -50,3 +50,4 @@
 Help me to paraphrase this paragraph more academically  
 ### 实验设计  
 [对照实验种类](https://zhuanlan.zhihu.com/p/353908052)  
+[数据量估计](https://rpsychologist.com/d3/nhst/)  
