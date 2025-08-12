@@ -31,6 +31,7 @@
 [https://pixabay.com/zh/(需要登录)](https://pixabay.com/zh/)  
 [https://smart.servier.com/](https://smart.servier.com/)  
 [5 Top Free Alternatives to BioRender for Scientific Illustrations](https://www.scidart.com/blog/5-top-free-alternatives-to-biorender-for-scientific-illustrations/)  
+[10 Websites Offering Free Scientific Illustrations and Images](https://www.scidart.com/blog/free-scientific-illustrations-and-images/)
 ### AI图片生成  
 [https://www.midjourney.com/](https://www.midjourney.com/)  
 ### 论文关系可视化  
